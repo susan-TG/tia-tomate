@@ -1,0 +1,45 @@
+.about {
+    text-align: center;
+    .about-container {
+        background-color: $snow;
+    }
+}
+.about-title{
+   
+    background-color: $salmon;
+    height: 200px;
+    text-align: center;
+
+    h1 {
+        color: $white;
+        padding-top: 60px;
+        font-family: $raleway;
+        font-weight: $bold;
+        font-size: $large;
+    }
+}
+
+.about__image {
+    width: 40vw;
+    padding: 60px 0 0 0;
+}
+
+.about__text {
+    margin: 0 20%;
+    padding-bottom: 60px;
+    color: $granite-gray;
+
+    h3 {
+        font-family: $raleway;
+        font-weight: $bold;
+        font-size: $large;
+    }
+
+    p {
+        font-family: $raleway;
+        font-weight: $extra-light;
+        font-size: $medium;
+        color: $quick-silver;
+    }
+    
+}

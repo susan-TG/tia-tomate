@@ -1,0 +1,18 @@
+
+.button {
+    padding: 1em 4em;
+    border-radius: 40px;
+    border: 1px solid $granite-gray;
+    font-family: $raleway;
+    font-weight: $bold;
+    font-size: $medium;
+    color: $granite-gray;
+
+    &:hover {
+        background-color: $granite-gray;
+        border-color: $white;
+        color: $white;
+    }
+
+    
+}

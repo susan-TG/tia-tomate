@@ -1,0 +1,43 @@
+
+.info-container {
+    width: 100vw;
+    text-align: center;
+}
+//Primer bloque información
+.info-uno {
+    color: $white;
+    background-color: $taupe-gray
+   
+}
+
+.info__image{
+    width: 80vw;
+    padding: 60px 0 0 0;
+    margin-right: 30px;
+}
+
+.info__text {
+    margin: 0 20%;
+    padding-bottom: 60px;
+
+    h3 {
+        font-family: $raleway;
+        font-weight: $bold;
+        font-size: $large;
+    }
+
+    p {
+        font-family: $raleway;
+        font-weight: $extra-light;
+        font-size: $medium;
+    }
+    
+}
+//Segundo bloque información
+
+.info-dos {
+    color: $granite-gray;
+    background-color: $white;
+}
+
+

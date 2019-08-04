@@ -1,0 +1,169 @@
+body {
+  height: 100vw;
+  background-color: white;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+h6 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 200;
+  font-size: 18px;
+}
+
+.header {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 4rem;
+  background-color: white;
+}
+
+.navigation__logo {
+  width: 200px;
+}
+
+.main {
+  background-color: #E56353;
+  color: white;
+  font-family: "Raleway", sans-serif;
+  width: 100vw;
+  height: 500px;
+  text-align: center;
+}
+.main h2 {
+  font-weight: 200;
+  font-size: 70px;
+  margin: 0;
+  padding-top: 170px;
+}
+.main h1 {
+  font-weight: 700;
+  font-size: 70px;
+  margin: 0;
+}
+
+.info-container {
+  width: 100vw;
+  text-align: center;
+}
+
+.info-uno {
+  color: white;
+  background-color: #91918D;
+}
+
+.info__image {
+  width: 80vw;
+  padding: 60px 0 0 0;
+  margin-right: 30px;
+}
+
+.info__text {
+  margin: 0 20%;
+  padding-bottom: 60px;
+}
+.info__text h3 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+.info__text p {
+  font-family: "Raleway", sans-serif;
+  font-weight: 200;
+  font-size: 18px;
+}
+
+.info-dos {
+  color: #686963;
+  background-color: white;
+}
+
+.about {
+  text-align: center;
+}
+.about .about-container {
+  background-color: #FAFAFA;
+}
+
+.about-title {
+  background-color: #E97F72;
+  height: 200px;
+  text-align: center;
+}
+.about-title h1 {
+  color: white;
+  padding-top: 60px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.about__image {
+  width: 40vw;
+  padding: 60px 0 0 0;
+}
+
+.about__text {
+  margin: 0 20%;
+  padding-bottom: 60px;
+  color: #686963;
+}
+.about__text h3 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+.about__text p {
+  font-family: "Raleway", sans-serif;
+  font-weight: 200;
+  font-size: 18px;
+  color: #A0A0A0;
+}
+
+.contact {
+  background-color: #E97F72;
+  color: white;
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  font-family: "Raleway", sans-serif;
+}
+
+.contact-text {
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.logo-footer {
+  text-align: center;
+  background-color: #686963;
+}
+
+.logo__footer {
+  width: 150px;
+  padding-top: 60px;
+  padding-bottom: 100px;
+}
+
+.button {
+  padding: 1em 4em;
+  border-radius: 40px;
+  border: 1px solid #686963;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  color: #686963;
+}
+.button:hover {
+  background-color: #686963;
+  border-color: white;
+  color: white;
+}
+
+/*# sourceMappingURL=main.css.map */
